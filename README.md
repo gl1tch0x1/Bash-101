@@ -1,2 +1,2 @@
 # Bash-101
-Bash codes
+implicit bash codes in simplicit form.
